@@ -1,0 +1,6 @@
+kafka-python
+tensorflow
+matplotlib
+six
+numpy
+boto3
